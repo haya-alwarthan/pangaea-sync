@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.6,
+                    10.1
+                ]
+            },
+            "properties": {
+                "name": "Haya Islands",
+                "desc": "yoooooooooooooooo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.6,
+                    10.1
+                ]
+            },
+            "properties": {
+                "name": "Anwar Islands",
+                "desc": "yoooooooooooooooo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.6,
+                    10.1
+                ]
+            },
+            "properties": {
+                "name": "Dinagat Islands",
+                "desc": "yoooooooooooooooo"
+            }
+        }
+    ]
+}
