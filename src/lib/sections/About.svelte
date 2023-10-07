@@ -1,4 +1,4 @@
-<section id="#about" class="h-screen p-10 py-[8rem]">
+<section id="about" class="h-screen p-10 py-[8rem]">
 
 <h1 class="font-bold text-white text-5xl">Future plans</h1>
 <ul class="text-white text-2xl">
